@@ -1,0 +1,16 @@
+.move2 {
+  position: absolute;
+  left: -2%;
+  top: 103%;
+}
+/* .move1{
+  position: absolute;
+  left: 25%;
+  top: 89%;
+} */
+
+/* .move3{
+  position: absolute;
+  left: 16%;
+  top: 132%;
+} */
